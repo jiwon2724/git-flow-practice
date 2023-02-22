@@ -13,5 +13,6 @@ class MainActivity : AppCompatActivity() {
         // hotpix commit
         // feature2 first commit
         // feature2 second commit
+        // release first commit
     }
 }
