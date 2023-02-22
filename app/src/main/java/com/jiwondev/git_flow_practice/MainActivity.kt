@@ -8,6 +8,13 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        // first develop commit
+        // second develop commit
         // hotpix commit
+        // feature2 first commit
+        // feature2 second commit
+        // release first commit
+        // release second commit
+
     }
 }
