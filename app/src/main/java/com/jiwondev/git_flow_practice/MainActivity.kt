@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         // first develop commit
         // second develop commit
+        // hotpix commit
     }
 }
