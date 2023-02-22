@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // feature1 first commit
-        // feature2 second commit
+        // feature1 second commit
+        // feature1 third commit
     }
 }
