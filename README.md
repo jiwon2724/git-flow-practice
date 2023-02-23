@@ -11,3 +11,5 @@ merge시 커밋로그가 나오지 않았다. 그 이유는 Fast-forward 병합 
 
 ## Soution
 $ git merge --no-ff feature -> --no-ff 옵션을 사용해서 그냥 이동 하지않고, merge시 커밋로그를 생성해줬다. 
+![image](https://user-images.githubusercontent.com/70135188/220806587-d1845004-32ce-4bc0-9687-942e4a82572c.png)
+
